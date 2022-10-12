@@ -1,4 +1,6 @@
-{
+{   
+	"author": "nitinvij",
+	"description": "learning backend dev",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
